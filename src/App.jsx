@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>Learn react on sis</h1>
-      <p>this what we try to learn please </p>
+      <p>I whould like to intro</p>
     </>
   );
 }
